@@ -1,21 +1,82 @@
-# 💫 About Me:
-Academic Background: I am currently an HND student in Software Engineering, designing and developing innovative solutions.<br>Technical Skills: Java, C#, IoT and Robotics systems, and AI integration, java Swing, React, Mobile Application, Web development.<br>Project Interests: Focused on projects in [specific areas like IoT, AI, Inventory Management Systems, automation, Library management System, Water level detection System, Health care Monitoring system, Business proposals, reporter Mobile app].<br>Notable Work: Currently developing an Inventory Management System incorporating IoT and AI as part of my final project and IoT based Healthcare monitoring System and Mobile application.<br>Learning and Growth: Constantly exploring emerging technologies and enhancing my skills through hands-on projects and collaborations.<br>Open to Collaboration: Interested in contributing to open-source projects and learning from the developer community.
+# 👋 Hi, I'm **Dhanushanandan Anandhamurugan**
 
+<p align="center">
+  <a href="https://github.com/Dhanushanandan">
+    <img src="https://github.com/Dhanushanandan.png" width="180" style="border-radius:50%;" alt="Profile"/>
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/darkphoenix0748_87866) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/11dhanu?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhanu_1.1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanushanandan-0939262a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Danushanandan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Dhanushanandan) 
+<h3 align="center">Full-Stack Developer • AI • IoT • Mobile • Cyber Security Enthusiast</h3>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dhanushanandan&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dhanushanandan&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanushanandan&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dhanushanandan&theme=neon&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+<a href="https://github.com/Dhanushanandan"><img src="https://img.shields.io/badge/GitHub-Dhanushanandan-black?style=for-the-badge&logo=github"></a>
+<a href="http://www.linkedin.com/in/dhanushanandan-anandha-murugan-0939262a3"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://dhanushanandan.github.io/My_portfolio_website/"><img src="https://img.shields.io/badge/Portfolio-Website-success?style=for-the-badge"></a>
+<a href="https://wa.me/+94712051203"><img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp"></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dhanushanandan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+- 🎓 Higher National Diploma in Software Engineering
+- 💻 Full-Stack Developer
+- 🤖 AI, Machine Learning & IoT Developer
+- 📱 Android Developer (Java & Kotlin)
+- 🌐 React, Spring Boot, Flask & PHP
+- 🛢 MySQL, PostgreSQL, MongoDB & Firebase
+- 🔬 Passionate about solving real-world problems with software.
+
+## 🚀 Featured Projects
+
+| Project | Tech |
+|---|---|
+| AI Powered Inventory Management | React, Flask, Firebase, Scikit-Learn |
+| IoT Healthcare Monitoring | Arduino, ESP8266, Firebase, Blynk |
+| Multi Disease Prediction | Python, Flask, ML |
+| Library Management System | Spring Boot, Java, MySQL |
+| Doctor Booking System | Java Swing, MySQL |
+| News Reporting App | Kotlin, Firebase |
+| Construction Management | PHP, MySQL |
+| Wedding Photography Website | React |
+
+## 💻 Tech Stack
+
+`Java` `Python` `C#` `C++` `JavaScript` `React` `Spring Boot` `Flask` `PHP`
+`HTML` `CSS` `Tailwind CSS` `Bootstrap`
+`MySQL` `MongoDB` `PostgreSQL` `Firebase`
+`Android Studio` `IntelliJ` `VS Code` `Git` `Arduino IDE`
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dhanushanandan&show_icons=true&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanushanandan&layout=compact&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Dhanushanandan&hide_border=true"/>
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Dhanushanandan&theme=algolia&no-frame=true&margin-w=15"/>
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Dhanushanandan/Dhanushanandan/output/snake.svg"/>
+</p>
+
+## 📫 Connect
+
+- GitHub: https://github.com/Dhanushanandan
+- Portfolio: https://dhanushanandan.github.io/My_portfolio_website/
+- LinkedIn: http://www.linkedin.com/in/dhanushanandan-anandha-murugan-0939262a3
+- WhatsApp: https://wa.me/+94712051203
+- Email: danushanandan1@gmail.com
+
+---
+> "Code with purpose. Learn continuously. Build solutions that matter."
